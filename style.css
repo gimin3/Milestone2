@@ -1,0 +1,19 @@
+.nav_top{
+  display:block;
+  float:left;
+  background-color: #f4d5bf;
+  padding: 1em;
+  margin: 1em;
+  list-style: none;
+}
+
+.nav_top:hover {
+    background-color: #fbcf9c;
+}
+
+li{
+  font-family: 'Times New Roman', sans-serif;
+  font-size: 1.3em;
+  list-style: none;
+  display:none;
+}
